@@ -12,7 +12,11 @@
 ███████╗██████╔╝██║░░░██║░░░██████╔╝
 ╚══════╝╚═════╝░╚═╝░░░╚═╝░░░╚═════╝░
 
-Super Engines all the Default engines super powered (Doubled there power outputs!)
+Super Engines all the Default looking engines super powered (Doubled there power outputs!)
+
+Adds Super powered engines to your game! **DOES NOT OVERWERITE THE DEFAULT ENGINES!** IT adds 3 Engines to your game!
+
+After install just serach "super" or "engine" and have fun!
 
 Install:
 

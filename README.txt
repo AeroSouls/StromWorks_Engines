@@ -20,7 +20,7 @@ After install just serach "super" or "engine" and have fun!
 
 Install:
 
-Go to your installation folder of the game > rom > data> tiles
+Go to your installation folder of the game > rom > data> definitions
 
 EX: C:\Steam\steamapps\common\Stormworks\rom\data\definitions
 
